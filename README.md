@@ -23,3 +23,12 @@ Ethan Temby- Year 10 Digital Innovation Machine Learning Portfolio, Semester 2, 
 ### License 🪪:
 
 The code and documentation in this repository are licensed under the MIT License.
+
+### References 📄:
+
+- https://towardsdatascience.com/k-means-clustering-algorithm-applications-evaluation-methods-and-drawbacks-aa03e644b48a
+- https://realpython.com/k-means-clustering-python/
+- https://towardsdatascience.com/building-a-k-nearest-neighbors-k-nn-model-with-scikit-learn-51209555453a
+- https://www.digitalocean.com/community/tutorials/k-nearest-neighbors-knn-in-python
+- https://www.ibm.com/topics/neural-networks
+- https://news.mit.edu/2017/explained-neural-networks-deep-learning-0414
